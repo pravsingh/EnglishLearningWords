@@ -26,7 +26,11 @@ public class EnglishLearningWordsGenerator {
 			for (int length = vowels; length <= 5; length++) {
 				List<String> words = fetchWords(vowels, length);
 				if (words.size() > 0) {
-					System.out.println(vowels + " vowels of size " + length);
+					if (vowels < 2) {
+						System.out.println("\n# " + vowels + " vowel of size " + length);
+					} else {
+						System.out.println("\n# " + vowels + " vowels of size " + length);
+					}
 					words.forEach(word -> {
 
 						WordMetadata wordMetadata = wordCache.get(word);
@@ -34,7 +38,8 @@ public class EnglishLearningWordsGenerator {
 						String partsOfSpeech = wordMetadata.getPartsOfSpeech() == null ? ""
 								: wordMetadata.getPartsOfSpeech();
 
-						System.out.println(word + "\t" + "[" + partsOfSpeech + "]\t" + wordMetadata.getMeaning());
+						System.out.println(
+								"1. **" + word + "**\t" + "[" + partsOfSpeech + "]\t" + wordMetadata.getMeaning());
 					});
 				}
 			}
@@ -47,8 +52,7 @@ public class EnglishLearningWordsGenerator {
 				// word length = wordLength
 				.filter(line -> line.length() == wordLength)
 				// numOfVowels vowels in word
-				.filter(line -> line.replaceAll("(?i)[^aeiou]+", "").length() == numOfVowels)
-				.sorted()
+				.filter(line -> line.replaceAll("(?i)[^aeiou]+", "").length() == numOfVowels).sorted()
 				// collect them all
 				.collect(Collectors.toList());
 
