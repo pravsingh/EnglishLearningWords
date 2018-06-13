@@ -3,868 +3,868 @@ a set of high frequency words prepared to teach kids
 
 
 # 1 vowel of size 3
-1. ##awl
-1. ##bar
-1. ##bid
-1. ##bog
-1. ##cog
-1. ##cow
-1. ##coy
-1. ##din
-1. ##don
-1. ##ebb
-1. ##fit
-1. ##guy
-1. ##hap
-1. ##hem
-1. ##hew
-1. ##hut
-1. ##jab
-1. ##jug
-1. ##ken
-1. ##lag
-1. ##lap
-1. ##lax
-1. ##log
-1. ##lot
-1. ##low
-1. ##mar
-1. ##mat
-1. ##nib
-1. ##nip
-1. ##pan
-1. ##pen
-1. ##rag
-1. ##ram
-1. ##rig
-1. ##rip
-1. ##sap
-1. ##sow
-1. ##tan
-1. ##vex
-1. ##wag
-1. ##wan
-1. ##wax
-1. ##yen
+##awl
+##bar
+##bid
+##bog
+##cog
+##cow
+##coy
+##din
+##don
+##ebb
+##fit
+##guy
+##hap
+##hem
+##hew
+##hut
+##jab
+##jug
+##ken
+##lag
+##lap
+##lax
+##log
+##lot
+##low
+##mar
+##mat
+##nib
+##nip
+##pan
+##pen
+##rag
+##ram
+##rig
+##rip
+##sap
+##sow
+##tan
+##vex
+##wag
+##wan
+##wax
+##yen
 
 # 1 vowel of size 4
-1. ##alms
-1. ##awry
-1. ##balk
-1. ##balm
-1. ##bank
-1. ##barb
-1. ##bard
-1. ##bask
-1. ##bent
-1. ##bevy
-1. ##bilk
-1. ##bolt
-1. ##brag
-1. ##brim
-1. ##bulk
-1. ##bump
-1. ##bust
-1. ##camp
-1. ##cant
-1. ##char
-1. ##chip
-1. ##clap
-1. ##clip
-1. ##clot
-1. ##crux
-1. ##cull
-1. ##curb
-1. ##damn
-1. ##dank
-1. ##dart
-1. ##deft
-1. ##dint
-1. ##doff
-1. ##dolt
-1. ##drab
-1. ##draw
-1. ##drip
-1. ##dull
-1. ##eddy
-1. ##fell
-1. ##flag
-1. ##flay
-1. ##flip
-1. ##flit
-1. ##flux
-1. ##ford
-1. ##fray
-1. ##fret
-1. ##fuss
-1. ##gall
-1. ##gawk
-1. ##germ
-1. ##gild
-1. ##gist
-1. ##glib
-1. ##glow
-1. ##glut
-1. ##gory
-1. ##grim
-1. ##gull
-1. ##gush
-1. ##gust
-1. ##hazy
-1. ##helm
-1. ##herd
-1. ##hull
-1. ##hurl
-1. ##jest
-1. ##knit
-1. ##lank
-1. ##levy
-1. ##lewd
-1. ##limn
-1. ##limp
-1. ##list
-1. ##loft
-1. ##loll
-1. ##lull
-1. ##lurk
-1. ##lush
-1. ##lust
-1. ##mash
-1. ##mass
-1. ##mock
-1. ##odds
-1. ##orgy
-1. ##pall
-1. ##palm
-1. ##pang
-1. ##pert
-1. ##pith
-1. ##ploy
-1. ##prey
-1. ##prim
-1. ##prod
-1. ##prop
-1. ##puny
-1. ##ramp
-1. ##rank
-1. ##rant
-1. ##rapt
-1. ##rasp
-1. ##rend
-1. ##rent
-1. ##rift
-1. ##romp
-1. ##scad
-1. ##sect
-1. ##sham
-1. ##shed
-1. ##shun
-1. ##sift
-1. ##silt
-1. ##skim
-1. ##slag
-1. ##slap
-1. ##slew
-1. ##slur
-1. ##smug
-1. ##snip
-1. ##snub
-1. ##spat
-1. ##spin
-1. ##stem
-1. ##stun
-1. ##sway
-1. ##tact
-1. ##tart
-1. ##tend
-1. ##tint
-1. ##toll
-1. ##toss
-1. ##trek
-1. ##trim
-1. ##tyro
-1. ##vent
-1. ##waft
-1. ##ward
-1. ##warp
-1. ##wary
-1. ##welt
-1. ##whet
-1. ##whim
-1. ##whit
-1. ##wilt
-1. ##wily
-1. ##wisp
-1. ##wont
-1. ##writ
-1. ##zany
-1. ##zest
+##alms
+##awry
+##balk
+##balm
+##bank
+##barb
+##bard
+##bask
+##bent
+##bevy
+##bilk
+##bolt
+##brag
+##brim
+##bulk
+##bump
+##bust
+##camp
+##cant
+##char
+##chip
+##clap
+##clip
+##clot
+##crux
+##cull
+##curb
+##damn
+##dank
+##dart
+##deft
+##dint
+##doff
+##dolt
+##drab
+##draw
+##drip
+##dull
+##eddy
+##fell
+##flag
+##flay
+##flip
+##flit
+##flux
+##ford
+##fray
+##fret
+##fuss
+##gall
+##gawk
+##germ
+##gild
+##gist
+##glib
+##glow
+##glut
+##gory
+##grim
+##gull
+##gush
+##gust
+##hazy
+##helm
+##herd
+##hull
+##hurl
+##jest
+##knit
+##lank
+##levy
+##lewd
+##limn
+##limp
+##list
+##loft
+##loll
+##lull
+##lurk
+##lush
+##lust
+##mash
+##mass
+##mock
+##odds
+##orgy
+##pall
+##palm
+##pang
+##pert
+##pith
+##ploy
+##prey
+##prim
+##prod
+##prop
+##puny
+##ramp
+##rank
+##rant
+##rapt
+##rasp
+##rend
+##rent
+##rift
+##romp
+##scad
+##sect
+##sham
+##shed
+##shun
+##sift
+##silt
+##skim
+##slag
+##slap
+##slew
+##slur
+##smug
+##snip
+##snub
+##spat
+##spin
+##stem
+##stun
+##sway
+##tact
+##tart
+##tend
+##tint
+##toll
+##toss
+##trek
+##trim
+##tyro
+##vent
+##waft
+##ward
+##warp
+##wary
+##welt
+##whet
+##whim
+##whit
+##wilt
+##wily
+##wisp
+##wont
+##writ
+##zany
+##zest
 
 # 1 vowel of size 5
-1. ##abyss
-1. ##arch-
-1. ##balmy
-1. ##bandy
-1. ##bawdy
-1. ##bland
-1. ##bliss
-1. ##bluff
-1. ##blunt
-1. ##blurt
-1. ##blush
-1. ##botch
-1. ##brand
-1. ##brawl
-1. ##brawn
-1. ##brink
-1. ##brisk
-1. ##brunt
-1. ##bully
-1. ##canny
-1. ##chaff
-1. ##chant
-1. ##charm
-1. ##chary
-1. ##chasm
-1. ##check
-1. ##clasp
-1. ##cleft
-1. ##clown
-1. ##craft
-1. ##crass
-1. ##crest
-1. ##cross
-1. ##crust
-1. ##dally
-1. ##decry
-1. ##dingy
-1. ##dowdy
-1. ##dowry
-1. ##draft
-1. ##dregs
-1. ##droll
-1. ##dross
-1. ##dummy
-1. ##fancy
-1. ##filch
-1. ##filth
-1. ##fleck
-1. ##flick
-1. ##flirt
-1. ##flush
-1. ##frisk
-1. ##frock
-1. ##frond
-1. ##fussy
-1. ##giddy
-1. ##girth
-1. ##gloss
-1. ##gnarl
-1. ##grill
-1. ##gross
-1. ##growl
-1. ##gruff
-1. ##grunt
-1. ##gusty
-1. ##hardy
-1. ##harry
-1. ##hatch
-1. ##imply
-1. ##knack
-1. ##knell
-1. ##knoll
-1. ##latch
-1. ##lofty
-1. ##mangy
-1. ##mirth
-1. ##muggy
-1. ##mulct
-1. ##murky
-1. ##musky
-1. ##musty
-1. ##natty
-1. ##notch
-1. ##parry
-1. ##petty
-1. ##pinch
-1. ##pithy
-1. ##pluck
-1. ##plumb
-1. ##plump
-1. ##prank
-1. ##primp
-1. ##privy
-1. ##prong
-1. ##proxy
-1. ##pushy
-1. ##rally
-1. ##raspy
-1. ##ruddy
-1. ##satyr
-1. ##scoff
-1. ##scowl
-1. ##scrap
-1. ##shack
-1. ##shard
-1. ##shift
-1. ##shirk
-1. ##shrew
-1. ##shunt
-1. ##skiff
-1. ##skimp
-1. ##skulk
-1. ##slack
-1. ##slick
-1. ##slink
-1. ##sloth
-1. ##smart
-1. ##smelt
-1. ##smirk
-1. ##spawn
-1. ##speck
-1. ##spurn
-1. ##stamp
-1. ##start
-1. ##stink
-1. ##stint
-1. ##stock
-1. ##strew
-1. ##strut
-1. ##stump
-1. ##sully
-1. ##surly
-1. ##swamp
-1. ##swarm
-1. ##swell
-1. ##swill
-1. ##tardy
-1. ##tarry
-1. ##tawny
-1. ##testy
-1. ##throb
-1. ##tract
-1. ##tramp
-1. ##troth
-1. ##trunk
-1. ##vying
-1. ##whelp
-1. ##whiff
-1. ##whorl
-1. ##wispy
-1. ##wrath
-1. ##wrest
-1. ##wring
+##abyss
+##arch-
+##balmy
+##bandy
+##bawdy
+##bland
+##bliss
+##bluff
+##blunt
+##blurt
+##blush
+##botch
+##brand
+##brawl
+##brawn
+##brink
+##brisk
+##brunt
+##bully
+##canny
+##chaff
+##chant
+##charm
+##chary
+##chasm
+##check
+##clasp
+##cleft
+##clown
+##craft
+##crass
+##crest
+##cross
+##crust
+##dally
+##decry
+##dingy
+##dowdy
+##dowry
+##draft
+##dregs
+##droll
+##dross
+##dummy
+##fancy
+##filch
+##filth
+##fleck
+##flick
+##flirt
+##flush
+##frisk
+##frock
+##frond
+##fussy
+##giddy
+##girth
+##gloss
+##gnarl
+##grill
+##gross
+##growl
+##gruff
+##grunt
+##gusty
+##hardy
+##harry
+##hatch
+##imply
+##knack
+##knell
+##knoll
+##latch
+##lofty
+##mangy
+##mirth
+##muggy
+##mulct
+##murky
+##musky
+##musty
+##natty
+##notch
+##parry
+##petty
+##pinch
+##pithy
+##pluck
+##plumb
+##plump
+##prank
+##primp
+##privy
+##prong
+##proxy
+##pushy
+##rally
+##raspy
+##ruddy
+##satyr
+##scoff
+##scowl
+##scrap
+##shack
+##shard
+##shift
+##shirk
+##shrew
+##shunt
+##skiff
+##skimp
+##skulk
+##slack
+##slick
+##slink
+##sloth
+##smart
+##smelt
+##smirk
+##spawn
+##speck
+##spurn
+##stamp
+##start
+##stink
+##stint
+##stock
+##strew
+##strut
+##stump
+##sully
+##surly
+##swamp
+##swarm
+##swell
+##swill
+##tardy
+##tarry
+##tawny
+##testy
+##throb
+##tract
+##tramp
+##troth
+##trunk
+##vying
+##whelp
+##whiff
+##whorl
+##wispy
+##wrath
+##wrest
+##wring
 
 # 2 vowels of size 3
-1. ##ape
-1. ##awe
-1. ##cue
-1. ##die
-1. ##ego
-1. ##ewe
-1. ##hue
-1. ##oaf
-1. ##rue
-1. ##vie
-1. ##woe
+##ape
+##awe
+##cue
+##die
+##ego
+##ewe
+##hue
+##oaf
+##rue
+##vie
+##woe
 
 # 2 vowels of size 4
-1. ##abet
-1. ##abut
-1. ##acme
-1. ##acne
-1. ##agog
-1. ##airy
-1. ##apex
-1. ##arid
-1. ##aver
-1. ##avid
-1. ##avow
-1. ##bait
-1. ##bane
-1. ##base
-1. ##bate
-1. ##blue
-1. ##bode
-1. ##boon
-1. ##boor
-1. ##bout
-1. ##cede
-1. ##cite
-1. ##coax
-1. ##coda
-1. ##coin
-1. ##coma
-1. ##coup
-1. ##dais
-1. ##daub
-1. ##daze
-1. ##dire
-1. ##diva
-1. ##doom
-1. ##dote
-1. ##dour
-1. ##doze
-1. ##dupe
-1. ##epic
-1. ##fake
-1. ##faze
-1. ##feud
-1. ##fiat
-1. ##floe
-1. ##foil
-1. ##foul
-1. ##gait
-1. ##gale
-1. ##gape
-1. ##gibe
-1. ##goad
-1. ##hail
-1. ##hale
-1. ##heed
-1. ##hide
-1. ##hive
-1. ##hoax
-1. ##hone
-1. ##idle
-1. ##jibe
-1. ##lace
-1. ##laud
-1. ##lien
-1. ##lode
-1. ##loom
-1. ##lope
-1. ##lout
-1. ##mace
-1. ##maim
-1. ##maul
-1. ##meek
-1. ##mete
-1. ##mime
-1. ##mire
-1. ##mite
-1. ##mode
-1. ##mote
-1. ##muse
-1. ##mute
-1. ##nova
-1. ##oath
-1. ##ogle
-1. ##onus
-1. ##opus
-1. ##oust
-1. ##pare
-1. ##peer
-1. ##peon
-1. ##pied
-1. ##pine
-1. ##pore
-1. ##pose
-1. ##quay
-1. ##quip
-1. ##rail
-1. ##rake
-1. ##rare
-1. ##rave
-1. ##raze
-1. ##reek
-1. ##rife
-1. ##rile
-1. ##roil
-1. ##rote
-1. ##rout
-1. ##ruse
-1. ##saga
-1. ##sage
-1. ##sate
-1. ##sear
-1. ##seep
-1. ##sere
-1. ##soar
-1. ##sour
-1. ##taut
-1. ##toga
-1. ##tome
-1. ##tout
-1. ##urge
-1. ##vain
-1. ##veer
-1. ##veto
-1. ##vile
-1. ##vise
-1. ##wade
-1. ##wage
-1. ##waif
-1. ##wake
-1. ##wane
-1. ##wean
-1. ##yoke
-1. ##yore
-1. ##zeal
+##abet
+##abut
+##acme
+##acne
+##agog
+##airy
+##apex
+##arid
+##aver
+##avid
+##avow
+##bait
+##bane
+##base
+##bate
+##blue
+##bode
+##boon
+##boor
+##bout
+##cede
+##cite
+##coax
+##coda
+##coin
+##coma
+##coup
+##dais
+##daub
+##daze
+##dire
+##diva
+##doom
+##dote
+##dour
+##doze
+##dupe
+##epic
+##fake
+##faze
+##feud
+##fiat
+##floe
+##foil
+##foul
+##gait
+##gale
+##gape
+##gibe
+##goad
+##hail
+##hale
+##heed
+##hide
+##hive
+##hoax
+##hone
+##idle
+##jibe
+##lace
+##laud
+##lien
+##lode
+##loom
+##lope
+##lout
+##mace
+##maim
+##maul
+##meek
+##mete
+##mime
+##mire
+##mite
+##mode
+##mote
+##muse
+##mute
+##nova
+##oath
+##ogle
+##onus
+##opus
+##oust
+##pare
+##peer
+##peon
+##pied
+##pine
+##pore
+##pose
+##quay
+##quip
+##rail
+##rake
+##rare
+##rave
+##raze
+##reek
+##rife
+##rile
+##roil
+##rote
+##rout
+##ruse
+##saga
+##sage
+##sate
+##sear
+##seep
+##sere
+##soar
+##sour
+##taut
+##toga
+##tome
+##tout
+##urge
+##vain
+##veer
+##veto
+##vile
+##vise
+##wade
+##wage
+##waif
+##wake
+##wane
+##wean
+##yoke
+##yore
+##zeal
 
 # 2 vowels of size 5
-1. ##abash
-1. ##abhor
-1. ##acrid
-1. ##adapt
-1. ##addle
-1. ##adept
-1. ##adorn
-1. ##allay
-1. ##alloy
-1. ##aloft
-1. ##amass
-1. ##amble
-1. ##amend
-1. ##amiss
-1. ##amity
-1. ##ample
-1. ##annex
-1. ##annul
-1. ##anvil
-1. ##ardor
-1. ##argot
-1. ##array
-1. ##ashen
-1. ##askew
-1. ##assay
-1. ##avert
-1. ##awful
-1. ##banal
-1. ##beget
-1. ##beset
-1. ##bigot
-1. ##blare
-1. ##bleak
-1. ##blues
-1. ##bogus
-1. ##boost
-1. ##bound
-1. ##braid
-1. ##brave
-1. ##breed
-1. ##broil
-1. ##brood
-1. ##brook
-1. ##bulge
-1. ##buxom
-1. ##cabal
-1. ##cache
-1. ##cadet
-1. ##canto
-1. ##caste
-1. ##cater
-1. ##cavil
-1. ##chafe
-1. ##chase
-1. ##chide
-1. ##choir
-1. ##chore
-1. ##civil
-1. ##clime
-1. ##clout
-1. ##court
-1. ##cower
-1. ##cozen
-1. ##crave
-1. ##credo
-1. ##creed
-1. ##creep
-1. ##crone
-1. ##daunt
-1. ##debar
-1. ##debut
-1. ##decoy
-1. ##defer
-1. ##deify
-1. ##deign
-1. ##delta
-1. ##delve
-1. ##demur
-1. ##dirge
-1. ##dowse
-1. ##drama
-1. ##drone
-1. ##droop
-1. ##edict
-1. ##edify
-1. ##elegy
-1. ##emend
-1. ##enact
-1. ##epoch
-1. ##ethos
-1. ##exact
-1. ##exalt
-1. ##extol
-1. ##exult
-1. ##facet
-1. ##farce
-1. ##feign
-1. ##feint
-1. ##felon
-1. ##feral
-1. ##fiend
-1. ##flail
-1. ##flair
-1. ##fleet
-1. ##flora
-1. ##flout
-1. ##fluke
-1. ##foist
-1. ##foray
-1. ##forge
-1. ##forte
-1. ##forum
-1. ##frail
-1. ##furor
-1. ##gaffe
-1. ##gamut
-1. ##gaudy
-1. ##gaunt
-1. ##gavel
-1. ##genre
-1. ##genus
-1. ##glare
-1. ##glaze
-1. ##gleam
-1. ##glean
-1. ##gloat
-1. ##gnome
-1. ##gorge
-1. ##grate
-1. ##graze
-1. ##groom
-1. ##gruel
-1. ##gusto
-1. ##haunt
-1. ##haven
-1. ##havoc
-1. ##hoard
-1. ##hoary
-1. ##horde
-1. ##hovel
-1. ##hover
-1. ##humid
-1. ##humor
-1. ##humus
-1. ##impel
-1. ##incur
-1. ##inept
-1. ##inert
-1. ##infer
-1. ##inter
-1. ##irony
-1. ##jaded
-1. ##jaunt
-1. ##junta
-1. ##knave
-1. ##knead
-1. ##kneel
-1. ##kudos
-1. ##laity
-1. ##lance
-1. ##leash
-1. ##leery
-1. ##libel
-1. ##limbo
-1. ##lithe
-1. ##livid
-1. ##loath
-1. ##lucid
-1. ##lucre
-1. ##lumen
-1. ##lunar
-1. ##lurid
-1. ##mange
-1. ##mason
-1. ##maxim
-1. ##merit
-1. ##meter
-1. ##mogul
-1. ##mores
-1. ##motif
-1. ##motto
-1. ##mural
-1. ##muted
-1. ##nadir
-1. ##natal
-1. ##nexus
-1. ##nurse
-1. ##overt
-1. ##padre
-1. ##paste
-1. ##piety
-1. ##plait
-1. ##plane
-1. ##polar
-1. ##prate
-1. ##preen
-1. ##prime
-1. ##prize
-1. ##probe
-1. ##prone
-1. ##prude
-1. ##prune
-1. ##pulse
-1. ##purge
-1. ##purse
-1. ##quack
-1. ##quaff
-1. ##quash
-1. ##quell
-1. ##query
-1. ##quirk
-1. ##rabid
-1. ##ravel
-1. ##realm
-1. ##rebus
-1. ##regal
-1. ##relic
-1. ##remit
-1. ##repel
-1. ##rider
-1. ##rigid
-1. ##rigor
-1. ##rivet
-1. ##runic
-1. ##savor
-1. ##scale
-1. ##scion
-1. ##score
-1. ##seamy
-1. ##seedy
-1. ##sever
-1. ##shade
-1. ##sheaf
-1. ##shear
-1. ##sheer
-1. ##shoot
-1. ##shove
-1. ##siren
-1. ##slake
-1. ##sleek
-1. ##smear
-1. ##sneak
-1. ##sober
-1. ##sonic
-1. ##sound
-1. ##spare
-1. ##spate
-1. ##spoof
-1. ##squat
-1. ##staid
-1. ##steep
-1. ##stoic
-1. ##stoke
-1. ##stoop
-1. ##stout
-1. ##surge
-1. ##swear
-1. ##swipe
-1. ##tacit
-1. ##taint
-1. ##talon
-1. ##taper
-1. ##taunt
-1. ##tempo
-1. ##tenet
-1. ##tepid
-1. ##terse
-1. ##tinge
-1. ##tithe
-1. ##title
-1. ##toady
-1. ##token
-1. ##torso
-1. ##totem
-1. ##toxic
-1. ##tread
-1. ##trite
-1. ##tumid
-1. ##ulcer
-1. ##usurp
-1. ##usury
-1. ##valid
-1. ##valor
-1. ##vapid
-1. ##venal
-1. ##venom
-1. ##verge
-1. ##verve
-1. ##viand
-1. ##vicar
-1. ##vigil
-1. ##vigor
-1. ##viper
-1. ##virus
-1. ##vital
-1. ##vivid
-1. ##vixen
-1. ##vouch
-1. ##waver
-1. ##weary
-1. ##weird
-1. ##whine
-1. ##wince
-1. ##wreak
-1. ##yield
-1. ##yokel
+##abash
+##abhor
+##acrid
+##adapt
+##addle
+##adept
+##adorn
+##allay
+##alloy
+##aloft
+##amass
+##amble
+##amend
+##amiss
+##amity
+##ample
+##annex
+##annul
+##anvil
+##ardor
+##argot
+##array
+##ashen
+##askew
+##assay
+##avert
+##awful
+##banal
+##beget
+##beset
+##bigot
+##blare
+##bleak
+##blues
+##bogus
+##boost
+##bound
+##braid
+##brave
+##breed
+##broil
+##brood
+##brook
+##bulge
+##buxom
+##cabal
+##cache
+##cadet
+##canto
+##caste
+##cater
+##cavil
+##chafe
+##chase
+##chide
+##choir
+##chore
+##civil
+##clime
+##clout
+##court
+##cower
+##cozen
+##crave
+##credo
+##creed
+##creep
+##crone
+##daunt
+##debar
+##debut
+##decoy
+##defer
+##deify
+##deign
+##delta
+##delve
+##demur
+##dirge
+##dowse
+##drama
+##drone
+##droop
+##edict
+##edify
+##elegy
+##emend
+##enact
+##epoch
+##ethos
+##exact
+##exalt
+##extol
+##exult
+##facet
+##farce
+##feign
+##feint
+##felon
+##feral
+##fiend
+##flail
+##flair
+##fleet
+##flora
+##flout
+##fluke
+##foist
+##foray
+##forge
+##forte
+##forum
+##frail
+##furor
+##gaffe
+##gamut
+##gaudy
+##gaunt
+##gavel
+##genre
+##genus
+##glare
+##glaze
+##gleam
+##glean
+##gloat
+##gnome
+##gorge
+##grate
+##graze
+##groom
+##gruel
+##gusto
+##haunt
+##haven
+##havoc
+##hoard
+##hoary
+##horde
+##hovel
+##hover
+##humid
+##humor
+##humus
+##impel
+##incur
+##inept
+##inert
+##infer
+##inter
+##irony
+##jaded
+##jaunt
+##junta
+##knave
+##knead
+##kneel
+##kudos
+##laity
+##lance
+##leash
+##leery
+##libel
+##limbo
+##lithe
+##livid
+##loath
+##lucid
+##lucre
+##lumen
+##lunar
+##lurid
+##mange
+##mason
+##maxim
+##merit
+##meter
+##mogul
+##mores
+##motif
+##motto
+##mural
+##muted
+##nadir
+##natal
+##nexus
+##nurse
+##overt
+##padre
+##paste
+##piety
+##plait
+##plane
+##polar
+##prate
+##preen
+##prime
+##prize
+##probe
+##prone
+##prude
+##prune
+##pulse
+##purge
+##purse
+##quack
+##quaff
+##quash
+##quell
+##query
+##quirk
+##rabid
+##ravel
+##realm
+##rebus
+##regal
+##relic
+##remit
+##repel
+##rider
+##rigid
+##rigor
+##rivet
+##runic
+##savor
+##scale
+##scion
+##score
+##seamy
+##seedy
+##sever
+##shade
+##sheaf
+##shear
+##sheer
+##shoot
+##shove
+##siren
+##slake
+##sleek
+##smear
+##sneak
+##sober
+##sonic
+##sound
+##spare
+##spate
+##spoof
+##squat
+##staid
+##steep
+##stoic
+##stoke
+##stoop
+##stout
+##surge
+##swear
+##swipe
+##tacit
+##taint
+##talon
+##taper
+##taunt
+##tempo
+##tenet
+##tepid
+##terse
+##tinge
+##tithe
+##title
+##toady
+##token
+##torso
+##totem
+##toxic
+##tread
+##trite
+##tumid
+##ulcer
+##usurp
+##usury
+##valid
+##valor
+##vapid
+##venal
+##venom
+##verge
+##verve
+##viand
+##vicar
+##vigil
+##vigor
+##viper
+##virus
+##vital
+##vivid
+##vixen
+##vouch
+##waver
+##weary
+##weird
+##whine
+##wince
+##wreak
+##yield
+##yokel
 
 # 3 vowels of size 4
-1. ##aria
-1. ##iota
-1. ##ooze
+##aria
+##iota
+##ooze
 
 # 3 vowels of size 5
-1. ##abase
-1. ##abate
-1. ##abide
-1. ##abode
-1. ##acute
-1. ##adage
-1. ##aegis
-1. ##agape
-1. ##alias
-1. ##aloof
-1. ##atone
-1. ##audit
-1. ##axiom
-1. ##azure
-1. ##belie
-1. ##cameo
-1. ##douse
-1. ##elope
-1. ##endue
-1. ##ennui
-1. ##ensue
-1. ##erode
-1. ##evoke
-1. ##exude
-1. ##fauna
-1. ##gouge
-1. ##guile
-1. ##guise
-1. ##idiom
-1. ##imbue
-1. ##inane
-1. ##irate
-1. ##levee
-1. ##mauve
-1. ##melee
-1. ##noose
-1. ##obese
-1. ##odium
-1. ##ovoid
-1. ##paean
-1. ##pious
-1. ##pique
-1. ##poise
-1. ##quail
-1. ##queer
-1. ##rou'e
-1. ##seine
-1. ##usage
-1. ##venue
-1. ##vogue
-1. ##waive
+##abase
+##abate
+##abide
+##abode
+##acute
+##adage
+##aegis
+##agape
+##alias
+##aloof
+##atone
+##audit
+##axiom
+##azure
+##belie
+##cameo
+##douse
+##elope
+##endue
+##ennui
+##ensue
+##erode
+##evoke
+##exude
+##fauna
+##gouge
+##guile
+##guise
+##idiom
+##imbue
+##inane
+##irate
+##levee
+##mauve
+##melee
+##noose
+##obese
+##odium
+##ovoid
+##paean
+##pious
+##pique
+##poise
+##quail
+##queer
+##rou'e
+##seine
+##usage
+##venue
+##vogue
+##waive
 
