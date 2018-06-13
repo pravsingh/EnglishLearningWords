@@ -3,6 +3,7 @@ package com.example.demo;
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -22,29 +23,46 @@ public class EnglishLearningWordsGenerator {
 
 	public void findAllLearningWords() {
 
+		List<String> links = new ArrayList<>();
+
 		for (int vowels = 1; vowels <= 3; vowels++) {
 			for (int length = vowels; length <= 5; length++) {
 				List<String> words = fetchWords(vowels, length);
-				if (words.size() > 0) {
-					if (vowels < 2) {
-						System.out.println("\n# words with " + vowels + " vowel of size " + length);
-					} else {
-						System.out.println("\n# words with " + vowels + " vowels of size " + length);
-					}
-					words.forEach(word -> {
-						System.out.println("## " + word);
 
-						WordMetadata wordMetadata = wordCache.get(word);
-
-						String partsOfSpeech = wordMetadata.getPartsOfSpeech() == null ? ""
-								: wordMetadata.getPartsOfSpeech();
-
-						System.out.println("> " + "[" + partsOfSpeech + "]\t" + wordMetadata.getMeaning());
-
-					});
+				if (words.size() == 0) {
+					continue;
 				}
+
+				System.out.println("\n" + generateTitle(vowels, length));
+
+				if (vowels < 2) {
+					links.add("#words-with-" + vowels + "-vowel-of-size-" + length);
+				} else {
+					links.add("#words-with-" + vowels + "-vowels-of-size-" + length);
+				}
+
+				words.forEach(word -> {
+					System.out.println("## " + word);
+
+					WordMetadata wordMetadata = wordCache.get(word);
+
+					String partsOfSpeech = wordMetadata.getPartsOfSpeech() == null ? ""
+							: wordMetadata.getPartsOfSpeech();
+
+					System.out.println("> " + "[" + partsOfSpeech + "]\t" + wordMetadata.getMeaning());
+
+				});
+
 			}
 		}
+
+		System.out.println("\n# Table of Contents");
+		links.forEach(link -> System.out.println("* [" + link + "](" + link + ")"));
+	}
+
+	public String generateTitle(int vowels, int length) {
+		return vowels < 2 ? "# words with " + vowels + " vowel of size " + length
+				: "# words with " + vowels + " vowels of size " + length;
 	}
 
 	public List<String> fetchWords(int numOfVowels, int wordLength) {
