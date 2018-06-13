@@ -1,7 +1,6 @@
 # EnglishLearningWords
 a set of high frequency words prepared to teach kids
-
-# 1 vowels of size 3
+# 1 vowel of size 3
 1. **awl**	[n]	pointed tool used for piercing
 1. **bar**	[s]	railing in a courtroom; legal profession; vertical line dividing a staff into equal measures; Ex. prisoner at the bar; V
 1. **bid**	[s]	command; utter (a greeting); offer as a price; N
@@ -45,7 +44,7 @@ a set of high frequency words prepared to teach kids
 1. **wan**	[n]	having a pale or sickly color; pallid
 1. **wax**	[n]	increase gradually (as the moon); grow
 1. **yen**	[n]	strong desire; longing; urge; Ex. yen for travel
-# 1 vowels of size 4
+# 1 vowel of size 4
 1. **alms**	[s]	money or goods given to the poor
 1. **awry**	[n]	distorted; crooked; bent; Ex. Our plans have gone awry.
 1. **balk**	[n]	stop short, as if faced with an obstacle, and refuse to continue; foil; stop or get in the way of; frustrate
@@ -197,7 +196,7 @@ a set of high frequency words prepared to teach kids
 1. **writ**	[n]	written command issued by a court (telling someone to do or not to do something)
 1. **zany**	[n]	comic; crazy; N
 1. **zest**	[s]	outer skin of an orange used for giving a special taste to food; spice; interest; flavor; spirited enjoyment; Ex. add a certain zest to the affair; Ex. zest for life
-# 1 vowels of size 5
+# 1 vowel of size 5
 1. **abyss**	[]	enormous chasm; vast bottomless pit
 1. **arch-**	[]	chief; first; Ex. archbishop
 1. **balmy**	[n]	soft and mild (of air); fragrant
