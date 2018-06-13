@@ -3,868 +3,867 @@ a set of high frequency words prepared to teach kids
 
 
 # 1 vowel of size 3
-##awl
-##bar
-##bid
-##bog
-##cog
-##cow
-##coy
-##din
-##don
-##ebb
-##fit
-##guy
-##hap
-##hem
-##hew
-##hut
-##jab
-##jug
-##ken
-##lag
-##lap
-##lax
-##log
-##lot
-##low
-##mar
-##mat
-##nib
-##nip
-##pan
-##pen
-##rag
-##ram
-##rig
-##rip
-##sap
-##sow
-##tan
-##vex
-##wag
-##wan
-##wax
-##yen
+## awl
+## bar
+## bid
+## bog
+## cog
+## cow
+## coy
+## din
+## don
+## ebb
+## fit
+## guy
+## hap
+## hem
+## hew
+## hut
+## jab
+## jug
+## ken
+## lag
+## lap
+## lax
+## log
+## lot
+## low
+## mar
+## mat
+## nib
+## nip
+## pan
+## pen
+## rag
+## ram
+## rig
+## rip
+## sap
+## sow
+## tan
+## vex
+## wag
+## wan
+## wax
+## yen
 
 # 1 vowel of size 4
-##alms
-##awry
-##balk
-##balm
-##bank
-##barb
-##bard
-##bask
-##bent
-##bevy
-##bilk
-##bolt
-##brag
-##brim
-##bulk
-##bump
-##bust
-##camp
-##cant
-##char
-##chip
-##clap
-##clip
-##clot
-##crux
-##cull
-##curb
-##damn
-##dank
-##dart
-##deft
-##dint
-##doff
-##dolt
-##drab
-##draw
-##drip
-##dull
-##eddy
-##fell
-##flag
-##flay
-##flip
-##flit
-##flux
-##ford
-##fray
-##fret
-##fuss
-##gall
-##gawk
-##germ
-##gild
-##gist
-##glib
-##glow
-##glut
-##gory
-##grim
-##gull
-##gush
-##gust
-##hazy
-##helm
-##herd
-##hull
-##hurl
-##jest
-##knit
-##lank
-##levy
-##lewd
-##limn
-##limp
-##list
-##loft
-##loll
-##lull
-##lurk
-##lush
-##lust
-##mash
-##mass
-##mock
-##odds
-##orgy
-##pall
-##palm
-##pang
-##pert
-##pith
-##ploy
-##prey
-##prim
-##prod
-##prop
-##puny
-##ramp
-##rank
-##rant
-##rapt
-##rasp
-##rend
-##rent
-##rift
-##romp
-##scad
-##sect
-##sham
-##shed
-##shun
-##sift
-##silt
-##skim
-##slag
-##slap
-##slew
-##slur
-##smug
-##snip
-##snub
-##spat
-##spin
-##stem
-##stun
-##sway
-##tact
-##tart
-##tend
-##tint
-##toll
-##toss
-##trek
-##trim
-##tyro
-##vent
-##waft
-##ward
-##warp
-##wary
-##welt
-##whet
-##whim
-##whit
-##wilt
-##wily
-##wisp
-##wont
-##writ
-##zany
-##zest
+## alms
+## awry
+## balk
+## balm
+## bank
+## barb
+## bard
+## bask
+## bent
+## bevy
+## bilk
+## bolt
+## brag
+## brim
+## bulk
+## bump
+## bust
+## camp
+## cant
+## char
+## chip
+## clap
+## clip
+## clot
+## crux
+## cull
+## curb
+## damn
+## dank
+## dart
+## deft
+## dint
+## doff
+## dolt
+## drab
+## draw
+## drip
+## dull
+## eddy
+## fell
+## flag
+## flay
+## flip
+## flit
+## flux
+## ford
+## fray
+## fret
+## fuss
+## gall
+## gawk
+## germ
+## gild
+## gist
+## glib
+## glow
+## glut
+## gory
+## grim
+## gull
+## gush
+## gust
+## hazy
+## helm
+## herd
+## hull
+## hurl
+## jest
+## knit
+## lank
+## levy
+## lewd
+## limn
+## limp
+## list
+## loft
+## loll
+## lull
+## lurk
+## lush
+## lust
+## mash
+## mass
+## mock
+## odds
+## orgy
+## pall
+## palm
+## pang
+## pert
+## pith
+## ploy
+## prey
+## prim
+## prod
+## prop
+## puny
+## ramp
+## rank
+## rant
+## rapt
+## rasp
+## rend
+## rent
+## rift
+## romp
+## scad
+## sect
+## sham
+## shed
+## shun
+## sift
+## silt
+## skim
+## slag
+## slap
+## slew
+## slur
+## smug
+## snip
+## snub
+## spat
+## spin
+## stem
+## stun
+## sway
+## tact
+## tart
+## tend
+## tint
+## toll
+## toss
+## trek
+## trim
+## tyro
+## vent
+## waft
+## ward
+## warp
+## wary
+## welt
+## whet
+## whim
+## whit
+## wilt
+## wily
+## wisp
+## wont
+## writ
+## zany
+## zest
 
 # 1 vowel of size 5
-##abyss
-##arch-
-##balmy
-##bandy
-##bawdy
-##bland
-##bliss
-##bluff
-##blunt
-##blurt
-##blush
-##botch
-##brand
-##brawl
-##brawn
-##brink
-##brisk
-##brunt
-##bully
-##canny
-##chaff
-##chant
-##charm
-##chary
-##chasm
-##check
-##clasp
-##cleft
-##clown
-##craft
-##crass
-##crest
-##cross
-##crust
-##dally
-##decry
-##dingy
-##dowdy
-##dowry
-##draft
-##dregs
-##droll
-##dross
-##dummy
-##fancy
-##filch
-##filth
-##fleck
-##flick
-##flirt
-##flush
-##frisk
-##frock
-##frond
-##fussy
-##giddy
-##girth
-##gloss
-##gnarl
-##grill
-##gross
-##growl
-##gruff
-##grunt
-##gusty
-##hardy
-##harry
-##hatch
-##imply
-##knack
-##knell
-##knoll
-##latch
-##lofty
-##mangy
-##mirth
-##muggy
-##mulct
-##murky
-##musky
-##musty
-##natty
-##notch
-##parry
-##petty
-##pinch
-##pithy
-##pluck
-##plumb
-##plump
-##prank
-##primp
-##privy
-##prong
-##proxy
-##pushy
-##rally
-##raspy
-##ruddy
-##satyr
-##scoff
-##scowl
-##scrap
-##shack
-##shard
-##shift
-##shirk
-##shrew
-##shunt
-##skiff
-##skimp
-##skulk
-##slack
-##slick
-##slink
-##sloth
-##smart
-##smelt
-##smirk
-##spawn
-##speck
-##spurn
-##stamp
-##start
-##stink
-##stint
-##stock
-##strew
-##strut
-##stump
-##sully
-##surly
-##swamp
-##swarm
-##swell
-##swill
-##tardy
-##tarry
-##tawny
-##testy
-##throb
-##tract
-##tramp
-##troth
-##trunk
-##vying
-##whelp
-##whiff
-##whorl
-##wispy
-##wrath
-##wrest
-##wring
+## abyss
+## arch-
+## balmy
+## bandy
+## bawdy
+## bland
+## bliss
+## bluff
+## blunt
+## blurt
+## blush
+## botch
+## brand
+## brawl
+## brawn
+## brink
+## brisk
+## brunt
+## bully
+## canny
+## chaff
+## chant
+## charm
+## chary
+## chasm
+## check
+## clasp
+## cleft
+## clown
+## craft
+## crass
+## crest
+## cross
+## crust
+## dally
+## decry
+## dingy
+## dowdy
+## dowry
+## draft
+## dregs
+## droll
+## dross
+## dummy
+## fancy
+## filch
+## filth
+## fleck
+## flick
+## flirt
+## flush
+## frisk
+## frock
+## frond
+## fussy
+## giddy
+## girth
+## gloss
+## gnarl
+## grill
+## gross
+## growl
+## gruff
+## grunt
+## gusty
+## hardy
+## harry
+## hatch
+## imply
+## knack
+## knell
+## knoll
+## latch
+## lofty
+## mangy
+## mirth
+## muggy
+## mulct
+## murky
+## musky
+## musty
+## natty
+## notch
+## parry
+## petty
+## pinch
+## pithy
+## pluck
+## plumb
+## plump
+## prank
+## primp
+## privy
+## prong
+## proxy
+## pushy
+## rally
+## raspy
+## ruddy
+## satyr
+## scoff
+## scowl
+## scrap
+## shack
+## shard
+## shift
+## shirk
+## shrew
+## shunt
+## skiff
+## skimp
+## skulk
+## slack
+## slick
+## slink
+## sloth
+## smart
+## smelt
+## smirk
+## spawn
+## speck
+## spurn
+## stamp
+## start
+## stink
+## stint
+## stock
+## strew
+## strut
+## stump
+## sully
+## surly
+## swamp
+## swarm
+## swell
+## swill
+## tardy
+## tarry
+## tawny
+## testy
+## throb
+## tract
+## tramp
+## troth
+## trunk
+## vying
+## whelp
+## whiff
+## whorl
+## wispy
+## wrath
+## wrest
+## wring
 
 # 2 vowels of size 3
-##ape
-##awe
-##cue
-##die
-##ego
-##ewe
-##hue
-##oaf
-##rue
-##vie
-##woe
+## ape
+## awe
+## cue
+## die
+## ego
+## ewe
+## hue
+## oaf
+## rue
+## vie
+## woe
 
 # 2 vowels of size 4
-##abet
-##abut
-##acme
-##acne
-##agog
-##airy
-##apex
-##arid
-##aver
-##avid
-##avow
-##bait
-##bane
-##base
-##bate
-##blue
-##bode
-##boon
-##boor
-##bout
-##cede
-##cite
-##coax
-##coda
-##coin
-##coma
-##coup
-##dais
-##daub
-##daze
-##dire
-##diva
-##doom
-##dote
-##dour
-##doze
-##dupe
-##epic
-##fake
-##faze
-##feud
-##fiat
-##floe
-##foil
-##foul
-##gait
-##gale
-##gape
-##gibe
-##goad
-##hail
-##hale
-##heed
-##hide
-##hive
-##hoax
-##hone
-##idle
-##jibe
-##lace
-##laud
-##lien
-##lode
-##loom
-##lope
-##lout
-##mace
-##maim
-##maul
-##meek
-##mete
-##mime
-##mire
-##mite
-##mode
-##mote
-##muse
-##mute
-##nova
-##oath
-##ogle
-##onus
-##opus
-##oust
-##pare
-##peer
-##peon
-##pied
-##pine
-##pore
-##pose
-##quay
-##quip
-##rail
-##rake
-##rare
-##rave
-##raze
-##reek
-##rife
-##rile
-##roil
-##rote
-##rout
-##ruse
-##saga
-##sage
-##sate
-##sear
-##seep
-##sere
-##soar
-##sour
-##taut
-##toga
-##tome
-##tout
-##urge
-##vain
-##veer
-##veto
-##vile
-##vise
-##wade
-##wage
-##waif
-##wake
-##wane
-##wean
-##yoke
-##yore
-##zeal
+## abet
+## abut
+## acme
+## acne
+## agog
+## airy
+## apex
+## arid
+## aver
+## avid
+## avow
+## bait
+## bane
+## base
+## bate
+## blue
+## bode
+## boon
+## boor
+## bout
+## cede
+## cite
+## coax
+## coda
+## coin
+## coma
+## coup
+## dais
+## daub
+## daze
+## dire
+## diva
+## doom
+## dote
+## dour
+## doze
+## dupe
+## epic
+## fake
+## faze
+## feud
+## fiat
+## floe
+## foil
+## foul
+## gait
+## gale
+## gape
+## gibe
+## goad
+## hail
+## hale
+## heed
+## hide
+## hive
+## hoax
+## hone
+## idle
+## jibe
+## lace
+## laud
+## lien
+## lode
+## loom
+## lope
+## lout
+## mace
+## maim
+## maul
+## meek
+## mete
+## mime
+## mire
+## mite
+## mode
+## mote
+## muse
+## mute
+## nova
+## oath
+## ogle
+## onus
+## opus
+## oust
+## pare
+## peer
+## peon
+## pied
+## pine
+## pore
+## pose
+## quay
+## quip
+## rail
+## rake
+## rare
+## rave
+## raze
+## reek
+## rife
+## rile
+## roil
+## rote
+## rout
+## ruse
+## saga
+## sage
+## sate
+## sear
+## seep
+## sere
+## soar
+## sour
+## taut
+## toga
+## tome
+## tout
+## urge
+## vain
+## veer
+## veto
+## vile
+## vise
+## wade
+## wage
+## waif
+## wake
+## wane
+## wean
+## yoke
+## yore
+## zeal
 
 # 2 vowels of size 5
-##abash
-##abhor
-##acrid
-##adapt
-##addle
-##adept
-##adorn
-##allay
-##alloy
-##aloft
-##amass
-##amble
-##amend
-##amiss
-##amity
-##ample
-##annex
-##annul
-##anvil
-##ardor
-##argot
-##array
-##ashen
-##askew
-##assay
-##avert
-##awful
-##banal
-##beget
-##beset
-##bigot
-##blare
-##bleak
-##blues
-##bogus
-##boost
-##bound
-##braid
-##brave
-##breed
-##broil
-##brood
-##brook
-##bulge
-##buxom
-##cabal
-##cache
-##cadet
-##canto
-##caste
-##cater
-##cavil
-##chafe
-##chase
-##chide
-##choir
-##chore
-##civil
-##clime
-##clout
-##court
-##cower
-##cozen
-##crave
-##credo
-##creed
-##creep
-##crone
-##daunt
-##debar
-##debut
-##decoy
-##defer
-##deify
-##deign
-##delta
-##delve
-##demur
-##dirge
-##dowse
-##drama
-##drone
-##droop
-##edict
-##edify
-##elegy
-##emend
-##enact
-##epoch
-##ethos
-##exact
-##exalt
-##extol
-##exult
-##facet
-##farce
-##feign
-##feint
-##felon
-##feral
-##fiend
-##flail
-##flair
-##fleet
-##flora
-##flout
-##fluke
-##foist
-##foray
-##forge
-##forte
-##forum
-##frail
-##furor
-##gaffe
-##gamut
-##gaudy
-##gaunt
-##gavel
-##genre
-##genus
-##glare
-##glaze
-##gleam
-##glean
-##gloat
-##gnome
-##gorge
-##grate
-##graze
-##groom
-##gruel
-##gusto
-##haunt
-##haven
-##havoc
-##hoard
-##hoary
-##horde
-##hovel
-##hover
-##humid
-##humor
-##humus
-##impel
-##incur
-##inept
-##inert
-##infer
-##inter
-##irony
-##jaded
-##jaunt
-##junta
-##knave
-##knead
-##kneel
-##kudos
-##laity
-##lance
-##leash
-##leery
-##libel
-##limbo
-##lithe
-##livid
-##loath
-##lucid
-##lucre
-##lumen
-##lunar
-##lurid
-##mange
-##mason
-##maxim
-##merit
-##meter
-##mogul
-##mores
-##motif
-##motto
-##mural
-##muted
-##nadir
-##natal
-##nexus
-##nurse
-##overt
-##padre
-##paste
-##piety
-##plait
-##plane
-##polar
-##prate
-##preen
-##prime
-##prize
-##probe
-##prone
-##prude
-##prune
-##pulse
-##purge
-##purse
-##quack
-##quaff
-##quash
-##quell
-##query
-##quirk
-##rabid
-##ravel
-##realm
-##rebus
-##regal
-##relic
-##remit
-##repel
-##rider
-##rigid
-##rigor
-##rivet
-##runic
-##savor
-##scale
-##scion
-##score
-##seamy
-##seedy
-##sever
-##shade
-##sheaf
-##shear
-##sheer
-##shoot
-##shove
-##siren
-##slake
-##sleek
-##smear
-##sneak
-##sober
-##sonic
-##sound
-##spare
-##spate
-##spoof
-##squat
-##staid
-##steep
-##stoic
-##stoke
-##stoop
-##stout
-##surge
-##swear
-##swipe
-##tacit
-##taint
-##talon
-##taper
-##taunt
-##tempo
-##tenet
-##tepid
-##terse
-##tinge
-##tithe
-##title
-##toady
-##token
-##torso
-##totem
-##toxic
-##tread
-##trite
-##tumid
-##ulcer
-##usurp
-##usury
-##valid
-##valor
-##vapid
-##venal
-##venom
-##verge
-##verve
-##viand
-##vicar
-##vigil
-##vigor
-##viper
-##virus
-##vital
-##vivid
-##vixen
-##vouch
-##waver
-##weary
-##weird
-##whine
-##wince
-##wreak
-##yield
-##yokel
+## abash
+## abhor
+## acrid
+## adapt
+## addle
+## adept
+## adorn
+## allay
+## alloy
+## aloft
+## amass
+## amble
+## amend
+## amiss
+## amity
+## ample
+## annex
+## annul
+## anvil
+## ardor
+## argot
+## array
+## ashen
+## askew
+## assay
+## avert
+## awful
+## banal
+## beget
+## beset
+## bigot
+## blare
+## bleak
+## blues
+## bogus
+## boost
+## bound
+## braid
+## brave
+## breed
+## broil
+## brood
+## brook
+## bulge
+## buxom
+## cabal
+## cache
+## cadet
+## canto
+## caste
+## cater
+## cavil
+## chafe
+## chase
+## chide
+## choir
+## chore
+## civil
+## clime
+## clout
+## court
+## cower
+## cozen
+## crave
+## credo
+## creed
+## creep
+## crone
+## daunt
+## debar
+## debut
+## decoy
+## defer
+## deify
+## deign
+## delta
+## delve
+## demur
+## dirge
+## dowse
+## drama
+## drone
+## droop
+## edict
+## edify
+## elegy
+## emend
+## enact
+## epoch
+## ethos
+## exact
+## exalt
+## extol
+## exult
+## facet
+## farce
+## feign
+## feint
+## felon
+## feral
+## fiend
+## flail
+## flair
+## fleet
+## flora
+## flout
+## fluke
+## foist
+## foray
+## forge
+## forte
+## forum
+## frail
+## furor
+## gaffe
+## gamut
+## gaudy
+## gaunt
+## gavel
+## genre
+## genus
+## glare
+## glaze
+## gleam
+## glean
+## gloat
+## gnome
+## gorge
+## grate
+## graze
+## groom
+## gruel
+## gusto
+## haunt
+## haven
+## havoc
+## hoard
+## hoary
+## horde
+## hovel
+## hover
+## humid
+## humor
+## humus
+## impel
+## incur
+## inept
+## inert
+## infer
+## inter
+## irony
+## jaded
+## jaunt
+## junta
+## knave
+## knead
+## kneel
+## kudos
+## laity
+## lance
+## leash
+## leery
+## libel
+## limbo
+## lithe
+## livid
+## loath
+## lucid
+## lucre
+## lumen
+## lunar
+## lurid
+## mange
+## mason
+## maxim
+## merit
+## meter
+## mogul
+## mores
+## motif
+## motto
+## mural
+## muted
+## nadir
+## natal
+## nexus
+## nurse
+## overt
+## padre
+## paste
+## piety
+## plait
+## plane
+## polar
+## prate
+## preen
+## prime
+## prize
+## probe
+## prone
+## prude
+## prune
+## pulse
+## purge
+## purse
+## quack
+## quaff
+## quash
+## quell
+## query
+## quirk
+## rabid
+## ravel
+## realm
+## rebus
+## regal
+## relic
+## remit
+## repel
+## rider
+## rigid
+## rigor
+## rivet
+## runic
+## savor
+## scale
+## scion
+## score
+## seamy
+## seedy
+## sever
+## shade
+## sheaf
+## shear
+## sheer
+## shoot
+## shove
+## siren
+## slake
+## sleek
+## smear
+## sneak
+## sober
+## sonic
+## sound
+## spare
+## spate
+## spoof
+## squat
+## staid
+## steep
+## stoic
+## stoke
+## stoop
+## stout
+## surge
+## swear
+## swipe
+## tacit
+## taint
+## talon
+## taper
+## taunt
+## tempo
+## tenet
+## tepid
+## terse
+## tinge
+## tithe
+## title
+## toady
+## token
+## torso
+## totem
+## toxic
+## tread
+## trite
+## tumid
+## ulcer
+## usurp
+## usury
+## valid
+## valor
+## vapid
+## venal
+## venom
+## verge
+## verve
+## viand
+## vicar
+## vigil
+## vigor
+## viper
+## virus
+## vital
+## vivid
+## vixen
+## vouch
+## waver
+## weary
+## weird
+## whine
+## wince
+## wreak
+## yield
+## yokel
 
 # 3 vowels of size 4
-##aria
-##iota
-##ooze
+## aria
+## iota
+## ooze
 
 # 3 vowels of size 5
-##abase
-##abate
-##abide
-##abode
-##acute
-##adage
-##aegis
-##agape
-##alias
-##aloof
-##atone
-##audit
-##axiom
-##azure
-##belie
-##cameo
-##douse
-##elope
-##endue
-##ennui
-##ensue
-##erode
-##evoke
-##exude
-##fauna
-##gouge
-##guile
-##guise
-##idiom
-##imbue
-##inane
-##irate
-##levee
-##mauve
-##melee
-##noose
-##obese
-##odium
-##ovoid
-##paean
-##pious
-##pique
-##poise
-##quail
-##queer
-##rou'e
-##seine
-##usage
-##venue
-##vogue
-##waive
-
+## abase
+## abate
+## abide
+## abode
+## acute
+## adage
+## aegis
+## agape
+## alias
+## aloof
+## atone
+## audit
+## axiom
+## azure
+## belie
+## cameo
+## douse
+## elope
+## endue
+## ennui
+## ensue
+## erode
+## evoke
+## exude
+## fauna
+## gouge
+## guile
+## guise
+## idiom
+## imbue
+## inane
+## irate
+## levee
+## mauve
+## melee
+## noose
+## obese
+## odium
+## ovoid
+## paean
+## pious
+## pique
+## poise
+## quail
+## queer
+## rou'e
+## seine
+## usage
+## venue
+## vogue
+## waive
