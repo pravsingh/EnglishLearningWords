@@ -27,19 +27,20 @@ public class EnglishLearningWordsGenerator {
 				List<String> words = fetchWords(vowels, length);
 				if (words.size() > 0) {
 					if (vowels < 2) {
-						System.out.println("\n# " + vowels + " vowel of size " + length);
+						System.out.println("\n# words with " + vowels + " vowel of size " + length);
 					} else {
-						System.out.println("\n# " + vowels + " vowels of size " + length);
+						System.out.println("\n# words with " + vowels + " vowels of size " + length);
 					}
 					words.forEach(word -> {
+						System.out.println("## " + word);
 
 						WordMetadata wordMetadata = wordCache.get(word);
 
 						String partsOfSpeech = wordMetadata.getPartsOfSpeech() == null ? ""
 								: wordMetadata.getPartsOfSpeech();
 
-						System.out.println(
-								"1. **" + word + "**\t" + "[" + partsOfSpeech + "]\t" + wordMetadata.getMeaning());
+						System.out.println("> " + "[" + partsOfSpeech + "]\t" + wordMetadata.getMeaning());
+
 					});
 				}
 			}
