@@ -1718,4 +1718,13 @@ a set of high frequency words prepared to teach kids
 ## waive
 > []	give up temporarily; yield; N. waiver
 
+# Table of Contents
+[#words-with-1-vowel-of-size-3](#words-with-1-vowel-of-size-3)
+[#words-with-1-vowel-of-size-4](#words-with-1-vowel-of-size-4)
+[#words-with-1-vowel-of-size-5](#words-with-1-vowel-of-size-5)
+[#words-with-2-vowel-of-size-3](#words-with-2-vowel-of-size-3)
+[#words-with-2-vowel-of-size-4](#words-with-2-vowel-of-size-4)
+[#words-with-2-vowel-of-size-5](#words-with-2-vowel-of-size-5)
+[#words-with-3-vowel-of-size-4](#words-with-3-vowel-of-size-4)
+[#words-with-3-vowel-of-size-5](#words-with-3-vowel-of-size-5)
 
