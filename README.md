@@ -2,7 +2,7 @@
 a set of high frequency words prepared to teach kids
 
 
-# 1 vowel of size 3
+# words with 1 vowel of size 3
 ## awl
 ## bar
 ## bid
@@ -47,7 +47,7 @@ a set of high frequency words prepared to teach kids
 ## wax
 ## yen
 
-# 1 vowel of size 4
+# words with 1 vowel of size 4
 ## alms
 ## awry
 ## balk
@@ -200,7 +200,7 @@ a set of high frequency words prepared to teach kids
 ## zany
 ## zest
 
-# 1 vowel of size 5
+# words with 1 vowel of size 5
 ## abyss
 ## arch-
 ## balmy
@@ -355,7 +355,7 @@ a set of high frequency words prepared to teach kids
 ## wrest
 ## wring
 
-# 2 vowels of size 3
+# words with 2 vowels of size 3
 ## ape
 ## awe
 ## cue
@@ -368,7 +368,7 @@ a set of high frequency words prepared to teach kids
 ## vie
 ## woe
 
-# 2 vowels of size 4
+# words with 2 vowels of size 4
 ## abet
 ## abut
 ## acme
@@ -502,7 +502,7 @@ a set of high frequency words prepared to teach kids
 ## yore
 ## zeal
 
-# 2 vowels of size 5
+# words with 2 vowels of size 5
 ## abash
 ## abhor
 ## acrid
@@ -810,12 +810,12 @@ a set of high frequency words prepared to teach kids
 ## yield
 ## yokel
 
-# 3 vowels of size 4
+# words with 3 vowels of size 4
 ## aria
 ## iota
 ## ooze
 
-# 3 vowels of size 5
+# words with 3 vowels of size 5
 ## abase
 ## abate
 ## abide
@@ -867,3 +867,4 @@ a set of high frequency words prepared to teach kids
 ## venue
 ## vogue
 ## waive
+
